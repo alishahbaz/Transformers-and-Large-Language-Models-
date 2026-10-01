@@ -1,4 +1,4 @@
-# CME 295 — Transformers & Large Language Models
+# S0 — Transformers & Large Language Models
 
 This wiki turns the first lecture into a clear, diagram-heavy study guide.
 
